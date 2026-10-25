@@ -28,5 +28,5 @@ M.Sc. Graduate from the University of Isfahan
 ---
 
 ### 📬 Connect With Me
-- [LinkedIn](لینک_پروفایل_لینکدین_شما)
-- Email: ایمیل شما
+- [LinkedIn](https://www.linkedin.com/in/masoud-radaei-708109374/)
+- Email: masoud.radaei.education@gmail.com
