@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Masoud Radaei 👋
 
-<!--
-**masoud-radaei/masoud-radaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Researcher & Instructor**  
+M.Sc. Graduate from the University of Isfahan  
+*Focus Areas: Medical Image Analysis | Scientific Computing | Deep Learning*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+- **Medical Image Analysis:** Segmentation, classification, and registration of clinical imaging (MRI, CT).
+- **Scientific Computing:** Numerical modeling, Monte Carlo simulations, and physics-informed learning.
+- **Deep Learning Architectures:** PyTorch-based pipelines, transfer learning, and reproducible benchmarks.
+
+---
+
+### 📄 Publications
+- **Measurement of Total Energy of Pulsed Electron Beam From a Plasma Focus Device Using Dosimetry of Bremsstrahlung X-Ray**  
+  *IEEE Transactions on Plasma Science*, May 2019.  
+  [DOI: 10.1109/TPS.2019.2898771](https://doi.org/10.1109/TPS.2019.2898771)
+
+---
+
+### 🛠️ Core Tech Stack
+- **Languages:** Python, C++, MATLAB
+- **ML / DL Frameworks:** PyTorch, Scikit-learn, MONAI
+- **Scientific / Vision Tools:** NumPy, SciPy, ITK/SimpleITK, OpenCV, Matplotlib
+
+---
+
+### 📬 Connect With Me
+- [LinkedIn](لینک_پروفایل_لینکدین_شما)
+- Email: ایمیل شما
